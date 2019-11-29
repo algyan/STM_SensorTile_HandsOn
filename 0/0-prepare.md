@@ -10,3 +10,6 @@ http://techmode.co.jp/images/STM32_AI_Hands_on_seminar_100919-SW-installation-pr
 * Python 3.6 and specific libraries (including Tensorflow 1.5 and Keras 2.2.2)
 * Github Demo project (Python + STM32 FW)
 * ST BLE Sensor app on mobiphone/tablet
+<hr>
+
+* [目次ページへ戻る](../readme.md)
