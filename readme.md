@@ -22,11 +22,11 @@
   * [1-1.STM SensorTileを組み立てる](1/1-Setup.md)
   * [1-2.スマホアプリを接続する](1/2-Setup.md)
   * [1-3.STM SensorTileの動作確認をする](1/3-Setup.md)
-* 2.Edge AI学習をする - 60分
+* 2.Edge AI学習をする - 90分
   * [2-0.STM SensorTileのサンプルアプリをバックアップする](2/0-AM1.md)
   * [2-1.STM SensorTileにAI学習アプリをインストールする](2/1-EdgeAI.md)
   * [2-2.Tesorflowで学習を行う](2/2-EdgeAI.md)
-* 3.IoTCに接続する(Androidアプリのみ)
+* 3.IoTCに接続する(Androidアプリのみ) - 30分
   * [3-1.AndroidアプリからAzure IoT Centralへ接続する](3/1-IoTC.md)
-* S. [S-1. STM サイト上の”STEVAL-STLKT01V1”関連資料](S/1-Docs.md)
+* [S. STM サイト上の”STEVAL-STLKT01V1”関連資料](S/1-Docs.md)
 ---
